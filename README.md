@@ -1,5 +1,4 @@
-# bank-loan-customer-analytics-sq
-# Bank Loan & Customer Analytics — SQL Project
+# Bank Loan & Customer Analytics -- SQL Project
 SQL project analyzing a synthetic banking dataset (customers, accounts, loans, transactions) sourced from Kaggle. Includes data cleaning and analysis of loan exposure, loan status, and top customers by balance.
 
 ## Dataset
@@ -22,8 +21,8 @@ Synthetic finance dataset from Kaggle (50k+ rows, multiple related tables). Incl
 SQL (joins, aggregations, group by, order by, limit, using, case when) -- [MySQL]
 
 ## Files
-/data — raw CSVs
-/sql — cleaning + analysis queries
+- /data -- raw CSVs
+- /sql -- cleaning + analysis queries
 
 ## Credit
 Data: Kaggle -- Attribution 4.0 International (CC BY 4.0)
